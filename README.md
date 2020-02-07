@@ -13,3 +13,6 @@ Include the files used
 ### Credits
 www.test.com
 
+### Company Info
+My Company Info
+
